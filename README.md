@@ -1,3 +1,7 @@
+# Modification in this version
+- Speed up loading
+- Add function to delete file by pressing `x`
+
 # OpenLabeling: open-source image and video labeler
 
 [![GitHub stars](https://img.shields.io/github/stars/Cartucho/OpenLabeling.svg?style=social&label=Stars)](https://github.com/Cartucho/OpenLabeling)
@@ -123,9 +127,11 @@ Keyboard, press:
 | --- | --- |
 | a/d | previous/next image |
 | s/w | previous/next class |
+| x | delete image |
 | e | edges |
 | h | help |
 | q | quit |
+
 
 Video:
 

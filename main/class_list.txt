@@ -1,3 +1,2 @@
+coin
 person
-billiard ball
-donut
